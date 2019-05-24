@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>i.jpeg</file>
+        <file>chess-clipart-line-23.png</file>
+        <file>qw.png</file>
+        <file>pw.png</file>
+        <file>lw.png</file>
+        <file>kw.png</file>
+        <file>hw.png</file>
+        <file>ew.png</file>
+        <file>qb.png</file>
+        <file>pb.png</file>
+        <file>lb.png</file>
+        <file>kb.png</file>
+        <file>hb.png</file>
+        <file>eb.png</file>
+        <file>Figure.qml</file>
+        <file>setPosition.js</file>
+    </qresource>
+</RCC>
